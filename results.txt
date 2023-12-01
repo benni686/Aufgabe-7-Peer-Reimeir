@@ -1,0 +1,5 @@
+Computer Name: PC-Benni
+Date of Test: 2023-12-01 11:05:35
+Bubble Sort Time: 4.835272 seconds
+Quick Sort Time: 0.017655 seconds
+
