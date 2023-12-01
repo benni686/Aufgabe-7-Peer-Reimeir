@@ -8,3 +8,8 @@ Date of Test: 2023-12-01 11:03:49
 Bubble Sort Time: 7.733312 seconds
 Quick Sort Time: 0.018595 seconds
 
+Computer Name: DESKTOP-9KV8BHJ
+Date of Test: 2023-12-01 11:06:03
+Bubble Sort Time: 7.430957 seconds
+Quick Sort Time: 0.025979 seconds
+
