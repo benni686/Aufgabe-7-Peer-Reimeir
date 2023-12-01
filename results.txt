@@ -1,7 +1,7 @@
-Computer Name: DESKTOP-9KV8BHJ
-Date of Test: 2023-12-01 10:47:27
-Bubble Sort Time: 7.463393 seconds
-Quick Sort Time: 0.024005 seconds
+Computer Name: PC-Benni
+Date of Test: 2023-12-01 11:01:40
+Bubble Sort Time: 4.902885 seconds
+Quick Sort Time: 0.012501 seconds
 
 Computer Name: DESKTOP-9KV8BHJ
 Date of Test: 2023-12-01 11:03:49
